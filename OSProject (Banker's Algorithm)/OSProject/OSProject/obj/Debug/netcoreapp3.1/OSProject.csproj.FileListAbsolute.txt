@@ -1,0 +1,56 @@
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.exe
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.deps.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.runtimeconfig.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.runtimeconfig.dev.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.dll
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.pdb
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.AssemblyReference.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form1.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form2.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.GenerateResource.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.AssemblyInfoInputs.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.AssemblyInfo.cs
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.CoreCompileInputs.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.dll
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.pdb
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.genruntimeconfig.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Properties.Resources.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Proejct\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form3.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.exe
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.deps.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.runtimeconfig.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.runtimeconfig.dev.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.dll
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.pdb
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form1.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form2.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form3.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Properties.Resources.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.GenerateResource.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.AssemblyInfoInputs.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.AssemblyInfo.cs
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.CoreCompileInputs.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.dll
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.pdb
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.genruntimeconfig.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.AssemblyReference.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\Project\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.exe
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.deps.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.runtimeconfig.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.runtimeconfig.dev.json
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.dll
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\bin\Debug\netcoreapp3.1\OSProject.pdb
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csprojAssemblyReference.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form1.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form2.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Form3.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.Properties.Resources.resources
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.GenerateResource.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.AssemblyInfoInputs.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.AssemblyInfo.cs
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.csproj.CoreCompileInputs.cache
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.dll
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.pdb
+D:\Mahmoud's College (AAST)\Semester 8\Operating System\OSProject (Banker's Algorithm)\OSProject\OSProject\obj\Debug\netcoreapp3.1\OSProject.genruntimeconfig.cache
