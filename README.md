@@ -96,3 +96,15 @@ The method returns a string that represents the current state of the available r
 
  `print_steps()` Method 
 The Method is responsible for printing the contents of the `steps` list onto the `richTextBox1` control in the form. It iterates through each element of the `steps` list and appends its value to the `richTextBox1` control using the `Text` property. The contents of the `steps` list are concatenated with the existing text in the `richTextBox1` control, so the new steps will be added at the end of the existing text.This method is likely used to display the progress and results of the algorithm to the user in a readable format.
+
+
+ ## Some Screenshoots for the Windows Forms:
+ 
+![image](https://github.com/MahmoudY00/Banker-s-Algorithm/assets/82828832/ff1895da-f3cf-4f8d-9d79-1394b4cc3555)
+
+![image](https://github.com/MahmoudY00/Banker-s-Algorithm/assets/82828832/0da44024-0c3e-4a35-b386-0fe0cfb83404)
+
+![image](https://github.com/MahmoudY00/Banker-s-Algorithm/assets/82828832/0fe96b9a-f118-43f4-b007-c423beb131c5)
+
+
+
