@@ -3,9 +3,8 @@
 This project was written in C# and consists of Three Windows Forms . The First is for getting the number of processess and resources from the user. The Second Form , the user is asked to enter 4 tables ( Total Resources , Avaliable Resources , Current Allocation and Maximum Need) and there is an addition section if asking for requesting resource for a process , also the user get an output in table called (Remaining Need).The last Form is for showing the steps for the user.
 
 
-Form1's Function :
-## `Enter_Click()` Method
-
+## Form1's Function :
+`Enter_Click()` Method
 This method is an event handler that is called when the user clicks the "Enter" button in Form1. It checks whether both the process and resource text boxes are not empty and whether their contents are valid integers. If both conditions are true, it stores the entered values in no_of_process and no_of_resources variables and opens Form2. If either condition is false, it displays a message box asking the user to enter valid values.
 
 
