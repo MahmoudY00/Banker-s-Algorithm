@@ -9,7 +9,7 @@ This method is an event handler that is called when the user clicks the "Enter" 
 
 
 
-##Form2's Functions:
+## Form2's Functions:
 
 `TotalResources()` Method
 
